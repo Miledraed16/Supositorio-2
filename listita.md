@@ -1,6 +1,6 @@
 # Lista de compras
 ## productos
-<cursiva>
+texto normal *cursiva* **negrita**
     
 - cocacolastic
 - fantastic
