@@ -1,7 +1,7 @@
 # Lista de compras
 ## productos
-<cursiva
--Cocacolastic
--fantastic
--spraitic
--pesitic
+<cursiva>
+- cocacolastic
+- fantastic
+- spraitic
+- pesitic
